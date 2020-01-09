@@ -1,0 +1,20 @@
+# started on Fri Jan 10 02:17:19 2020
+
+
+ Performance counter stats for './test_common three2.txt --bench random_command.txt':
+
+          1,655.86 msec task-clock                #    0.616 CPUs utilized          
+                93      context-switches          #    0.056 K/sec                  
+                 3      cpu-migrations            #    0.002 K/sec                  
+            17,858      page-faults               #    0.011 M/sec                  
+     5,936,558,618      cycles                    #    3.585 GHz                    
+     4,844,139,243      instructions              #    0.82  insn per cycle         
+     1,072,258,983      branches                  #  647.554 M/sec                  
+        25,479,867      branch-misses             #    2.38% of all branches        
+
+       2.686550924 seconds time elapsed
+
+       0.747081000 seconds user
+       0.910009000 seconds sys
+
+
