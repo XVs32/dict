@@ -7,8 +7,6 @@
 ---
 ## Outline
 
-[TOC]
-
 * Introduction
     * bloom-filter
     * quotient-filter??
@@ -18,7 +16,20 @@
     * TST search
 * cpy vs ref
 
-
+* Dict
+    * Outline
+    * Introduction
+        * Bloom Filter
+        * Quotient Filter
+        * TST
+        * 資料輸入順序對TST效能的影響
+        * TST 的資料輸入順序調整
+    * 設計實驗：
+        * TST search
+        * 小結
+    * cpy vs ref
+    * test_common.c
+        * 更換 hash function
 
 
 ---
