@@ -7,6 +7,8 @@
 ---
 ## Outline
 
+[TOC]
+
 * Introduction
     * bloom-filter
     * quotient-filter??
