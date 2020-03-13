@@ -7,15 +7,6 @@
 ---
 ## Outline
 
-* Introduction
-    * bloom-filter
-    * quotient-filter??
-    * TST
-        * 資料輸入順序對 TST 效能的影響
-* 設計實驗
-    * TST search
-* cpy vs ref
-
 * Dict
     * Outline
     * Introduction
